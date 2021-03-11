@@ -1,6 +1,6 @@
 ----
--- This command was put together super fast, and it requires some additional effort to use. You CANNOT use "bind v noclip" for this command, you will just start noclipping normally.
-Instead, you need to do "bind <key> "sg admin"". Replace admin with what you put as command.command.
+-- This command was put together super fast and somewhat poorly, and it requires some additional effort to use. You CANNOT use "bind v noclip" for this command, you will just start noclipping
+-- normally. Instead, you need to do "bind <key> "sg admin"". Replace admin with what you put for lind 9.
 ----
 
 local command = {}
